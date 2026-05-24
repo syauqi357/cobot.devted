@@ -1,0 +1,52 @@
+2026/05/25-00:46:59.086 450a Creating DB /data/data/com.termux/files/home/cobot.devted/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/05/25-00:46:59.089 450a Reusing MANIFEST /data/data/com.termux/files/home/cobot.devted/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/25-00:48:31.082 450e Level-0 table #5: started
+2026/05/25-00:48:31.111 450e Level-0 table #5: 1044850 bytes OK
+2026/05/25-00:48:31.135 450e Delete type=0 #3
+2026/05/25-00:48:43.677 450e Level-0 table #7: started
+2026/05/25-00:48:43.726 450e Level-0 table #7: 1244044 bytes OK
+2026/05/25-00:48:43.752 450e Delete type=0 #4
+2026/05/25-00:48:43.755 450e Compacting 1@1 + 1@2 files
+2026/05/25-00:48:43.823 450e Generated table #8@1: 21471 keys, 1147313 bytes
+2026/05/25-00:48:43.823 450e Compacted 1@1 + 1@2 files => 1147313 bytes
+2026/05/25-00:48:43.825 450e compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/25-00:48:43.826 450e Delete type=2 #7
+2026/05/25-00:48:49.879 4517 Level-0 table #10: started
+2026/05/25-00:48:50.024 4517 Level-0 table #10: 1376041 bytes OK
+2026/05/25-00:48:50.037 4517 Delete type=0 #6
+2026/05/25-00:48:50.038 4517 Delete type=2 #5
+2026/05/25-00:48:50.087 450e Compacting 1@1 + 1@2 files
+2026/05/25-00:48:50.194 450e Generated table #11@1: 28702 keys, 1900319 bytes
+2026/05/25-00:48:50.194 450e Compacted 1@1 + 1@2 files => 1900319 bytes
+2026/05/25-00:48:50.196 450e compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/25-00:48:50.197 450e Delete type=2 #10
+2026/05/25-00:48:53.223 450e Level-0 table #13: started
+2026/05/25-00:48:53.251 450e Level-0 table #13: 1002756 bytes OK
+2026/05/25-00:48:53.258 450e Delete type=2 #8
+2026/05/25-00:48:53.258 450e Delete type=0 #9
+2026/05/25-00:48:53.273 450e Compacting 1@1 + 1@2 files
+2026/05/25-00:48:53.344 450e Generated table #14@1: 36980 keys, 2198722 bytes
+2026/05/25-00:48:53.353 450e Generated table #15@1: 8756 keys, 332124 bytes
+2026/05/25-00:48:53.354 450e Compacted 1@1 + 1@2 files => 2530846 bytes
+2026/05/25-00:48:53.356 450e compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/25-00:48:53.356 450e Delete type=2 #11
+2026/05/25-00:48:53.356 450e Delete type=2 #13
+2026/05/25-00:49:12.569 450e Level-0 table #17: started
+2026/05/25-00:49:12.607 450e Level-0 table #17: 1190906 bytes OK
+2026/05/25-00:49:12.616 450e Delete type=0 #12
+2026/05/25-00:49:26.709 450a Compacting 1@1 + 2@2 files
+2026/05/25-00:49:26.800 450a Generated table #18@1: 30311 keys, 2192578 bytes
+2026/05/25-00:49:26.813 450a Generated table #19@1: 9478 keys, 333945 bytes
+2026/05/25-00:49:26.814 450a Compacted 1@1 + 2@2 files => 2526523 bytes
+2026/05/25-00:49:26.824 450a compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/25-00:49:33.168 450e Level-0 table #21: started
+2026/05/25-00:49:33.188 450e Level-0 table #21: 1122314 bytes OK
+2026/05/25-00:49:33.197 450e Delete type=0 #16
+2026/05/25-00:49:33.197 450e Delete type=2 #14
+2026/05/25-00:49:33.197 450e Delete type=2 #15
+2026/05/25-00:49:33.197 450e Delete type=2 #17
+2026/05/25-00:49:33.944 4517 Compacting 1@1 + 2@2 files
+2026/05/25-00:49:34.065 4517 Generated table #22@1: 31983 keys, 2190778 bytes
+2026/05/25-00:49:34.097 4517 Generated table #23@1: 12735 keys, 633509 bytes
+2026/05/25-00:49:34.097 4517 Compacted 1@1 + 2@2 files => 2824287 bytes
+2026/05/25-00:49:34.099 4517 compacted to: files[ 0 0 2 0 0 0 0 ]
